@@ -1,8 +1,8 @@
 # Salaam, I'm CoderLadFahim.
 
-## I am a Front-end Engineer, almost there with back-end engineering.
+## Front-end Engineer
 
-## Stuff I know
+## Stack
 
  (Frameworks & Libraries)
  - VueJS
@@ -10,8 +10,7 @@
  - ReactJS
  - ReduxJS 
  - TailwindCSS
- - GSAP
- - ExpressJS
+ - Bootstrap
  - and more
 
  (Languages)
@@ -22,26 +21,8 @@
  - TypeScript
  - PHP 
 
- (Tools I like to use)
- - FireFox
+ (Preferred Tooling)
  - Vim
- - Cmder
  - Git
  - NPM
  - Figma
-
-
-## My hobbies
-
- - Being a part-time Memelord
- - Designing alternate history flags for countries 
- - Coding beyond web development
- - Learning spoken languages
-
-
-## My favourite things to do
-
- - Petting my cat 
- - Enjoying minecraft
- - More cat petting
- - More Minecraft enjoyment
