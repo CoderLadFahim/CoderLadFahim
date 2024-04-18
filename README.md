@@ -1,4 +1,4 @@
-# Salaam, I'm CoderLadFahim.
+# Hey there, I'm CoderLadFahim.
 
 ## Front-end Engineer
 
